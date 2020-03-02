@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Architectures: amd64
+Codename: buster
+Components: pve-no-subscription pvetest
+Date: Thu, 20 Feb 2020 11:48:36 +0000
+Label: Proxmox Debian Repository
+Origin: Proxmox
+Suite: stable
+MD5Sum:
+ 87c0fb682caf9fa48742c7b860c125d4           835912 pve-no-subscription/binary-amd64/Packages
+ 92d3a18ffab05ed62fd2c2b486a53fbd           183511 pve-no-subscription/binary-amd64/Packages.gz
+ 843d89416a49b901f1fd7f50e1f2d04e           826160 pvetest/binary-amd64/Packages
+ 3ca6196be59977fbad47a314cedc47d2           183100 pvetest/binary-amd64/Packages.gz
+SHA1:
+ 7be13657c8d707f3e72748c92faabf93f525c91b           835912 pve-no-subscription/binary-amd64/Packages
+ 9c4dfb989e1b85d9b1d021a1a92e59ee30a50c83           183511 pve-no-subscription/binary-amd64/Packages.gz
+ 8d0699a162cf56cd2ef1d3d830b75085e13a408f           826160 pvetest/binary-amd64/Packages
+ b1dab6b5ffa8980ab7550e29d8a3815cbcf89b16           183100 pvetest/binary-amd64/Packages.gz
+SHA256:
+ 0b11a14a35bc5de0275363447e96d4f1857190b940bc797ae7b1939756d88b95           835912 pve-no-subscription/binary-amd64/Packages
+ 6d4d25b0a2a7d3b8cb1799b1710a4b9c7c49c90c46d08cee5e1bc04a2b68cbac           183511 pve-no-subscription/binary-amd64/Packages.gz
+ 5a5893c366a537fc60b2ce09be9d8f88d6bb11abe1b30a30df8c69bd564070cd           826160 pvetest/binary-amd64/Packages
+ c45d7ebe9a67d0b4005f8d87709dffd8a5e74fb5eaaed09bcc9031ad9236eea5           183100 pvetest/binary-amd64/Packages.gz
+SHA512:
+ 540590b8e5bcc0aa8b8b58daeb8bc445cda9ef8f4e3619817afd7e22acf944c5d3d57972168e06879ef7ddd75be9a221c9b59cb17d6c73a682b520c37a68dd99           835912 pve-no-subscription/binary-amd64/Packages
+ 76f0255f69e39582472cf41e6dabc60df3662dba6a153ad72210b981f6e7d6110b8aa8f43643a47162d6f3c91fcf11c34d81028143b4d5773396fd6d8d05cb86           183511 pve-no-subscription/binary-amd64/Packages.gz
+ 53609fc4724680b6659919076735dcd8107a3ed344823a89695e236437e87b1e0e0b47bc0be642f54b6c952b182821273ddc225b3a70f65f79465fbed1209519           826160 pvetest/binary-amd64/Packages
+ 3cd318a36df25cf340fd00897991ee7f1de29822c015ed21de79a402f095bc3c318e28b4c23525093b462fa3757337d995cf0b5683f5080c3cc7871e440474ad           183100 pvetest/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEENTR5+DeB1/jtX1rFe/KBLopuiOAFAl5Och0ACgkQe/KBLopu
+iOCG+xAAjytYsXY+u9dDOLE0Lzp1jEqpeg6tPEV3+KBCFqco1WdFjqPkLHD/UH62
+Cu5QvLgQciBBnoTz22od6c9ctqjA4r372o/TVgqV7lp3zN5WXoIgSqma8UE5IFOZ
+BLGy1Ikaez9HK1IMuzBx9DILSbszwy4DYCA8b2x5ZEvybJ2YuCFCyoML4e4frE5T
+Z2jBSI7EBR0bTb8iyx1UBJCXlzcLsZio0eQKb+51Dawe9eOR/xHpv1dwIW94natb
+7ZY8srodY5etpGcf0BB15cbZIa10THv6Pm6yDUvQm2+pnIZoa+DQ01J4PLt665KU
+1yLQMa1iUeQD43Uu6X+V+Hlmcje3S141NpNz81/d/yLZ5B6/edxrWR2w5bluBbvA
+8sPSddEZ08dxa1Fse5MuONzvKl3dT4WoSI6mA27Hl72TNvDlSonV5ZxfyAGolhiR
+k6BdlcaYuIpZ2zZyokB/vW4SNu8zvV6wlXmtEvvWNZJx/WyNap+sseZ6uCj8Loiz
+/3TEyJYiP+ArW9qPjGzQbjNuA/j/K0jQ3Uzox+f2bTZWNQlYXZ422IJzzBKoo9NA
+7c0tq85y2HQI0M1JYUlPyeS8zS6YKOaIVyNmGVqMaBzTNTrx+7uhz0tVWnqqUrYX
+AYSw+fOxOG2/fApRsd2XnKKxj/j29OeFSdZ1eaq6LvnZuDAAZ64=
+=39/k
+-----END PGP SIGNATURE-----

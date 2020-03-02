@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Architectures: amd64
+Codename: buster
+Components: main test
+Date: Mon, 13 Jan 2020 16:53:17 +0000
+Label: Proxmox Debian Repository
+Origin: Proxmox
+Suite: stable
+MD5Sum:
+ 8618ed36c2ae1c5c3f4babaff5c2b3a6           328382 main/binary-amd64/Packages
+ f88df511a45a7c889fff3b1805168280            59805 main/binary-amd64/Packages.gz
+ f2f32d426c850b9b3031498b026808c2           328382 test/binary-amd64/Packages
+ 8681ea9dc6eddb633b18b23e16767ad4            59805 test/binary-amd64/Packages.gz
+SHA1:
+ 3106749e05ab10b6376fc67f6df3e9505ebb95ed           328382 main/binary-amd64/Packages
+ 152df1632d3095675e7895bcf777d141ada96ae2            59805 main/binary-amd64/Packages.gz
+ 0b8f158a1b0e020f8739919e6f7e8fd14a6ba0fb           328382 test/binary-amd64/Packages
+ fec2cb6d540a7a312cf0b43cace3e0e5aa0c4cb6            59805 test/binary-amd64/Packages.gz
+SHA256:
+ f7cf65015b00585d5b19d56b67a3bf6c481a3feacfb9dc9b663bef3fa106e535           328382 main/binary-amd64/Packages
+ 4e7bb842f3a8d16e63ab554a6b53f123a312a2a5b95bed76e5cd944ff230d4ac            59805 main/binary-amd64/Packages.gz
+ 0ecfc25b1adb0cad76abe9ea746e9b7838b32b5c0c558cba4753ba3accad7149           328382 test/binary-amd64/Packages
+ 549fbfe9e543a0353bd311dfb5e80e4d2fcf9fab1586e3ff5c4151b98c43a0c7            59805 test/binary-amd64/Packages.gz
+SHA512:
+ e8b6bed690b4c6194b2ae942c09609f9ae2df6b1388f5edbe5aafcabe546e2da9149d760ac5f7dc121f599af9387c900dc3acbbf83a5e964318c08ad0d945ace           328382 main/binary-amd64/Packages
+ a98411a9a8615640a922aa9d9c5b71421f9854c17e1a070f5d991c8ff61e59cfa410402d09a20fee19c4af77bdc99eaa4721ab94ad6a8a8445e4e3e9bcd044e9            59805 main/binary-amd64/Packages.gz
+ 50ae84ce5bdcbcfde3e67a306a3f3a2b93b7c34c962ce14a55d1f94d3f4633c5db6c8aabbf9ef75b196edf89a910fe636e1840e2b1d5ad003bdc90fe66ec2a2b           328382 test/binary-amd64/Packages
+ 7ed0e389a0cd27b2fe55f47085ccd815000df8dc1f8a619900758d17ce88e6bfdc4ff873273381ed273e62b32c87c0e997847c5557cfedafb5dc6faa45aaea5b            59805 test/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEENTR5+DeB1/jtX1rFe/KBLopuiOAFAl4coIEACgkQe/KBLopu
+iOBtjxAAo/4dLWWd/LvmQWQE+Ky5Fg1hIOpcBEpfJPVgwz+Ozj07uAPLmc0lKkgu
+szKFBs2X9YXshIffHFvSuHUZg/WD9s7JruTEzKgQ0Id1Ya+SXVb+VVbYg56RyYjQ
+vHJ0SGLfNtywGnjTYM33atpR9ICpOZUpOxpA2EmIhEMKenUADoS6wh3WtH7fBOPT
+YGzRwi3EF8m6sOtFYL2ne/iCXHqlf+uB8LUC6jJRCysDwM8yGEqv2AJYE6u2Yadu
+VyHLQRjQxkbKIOnpX6GoIJ3EMgRAXG+3g69XVVkhOdL09vPXuS9noCXVv3js1pNV
+CZ2DQ8vQhYK0kKsog3uGd/K/QzL4jxlTmPhfyWBDTRocDT9EDjAEREpkViBTi0KN
+LmHXm6EiNWE2bwHn9iawvhWGkKFhol/xQBhEQZJdqMjfSeqRW+j7ol0uzJ66ypyA
+eIXp/IeuxcaeWO0GL5L69Y0pm9Watz/LCE13kkezYcW7Bh45kAhoCDxZhrCMQQ7s
+MqeC5sjHaeXdvCG0h8JvasXyVTYwHTY47t4RGylbqfGz5HvWA2ktYobLj8L0aEL/
+928aOl48ZrYAx3Gpm7upG0jRigpSsmCbGZWQaJifULrQ4zXGDQRA8MMHsFMiBpOM
+nG96lYXzZgSiiBDt+ZYQK5xX72ToZzke+4zP1+CKcnY06L5N7pQ=
+=ML/K
+-----END PGP SIGNATURE-----

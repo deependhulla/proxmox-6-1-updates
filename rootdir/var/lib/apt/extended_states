@@ -1,0 +1,244 @@
+Package: libtre5
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libev4
+Architecture: amd64
+Auto-Installed: 1
+
+Package: mc-data
+Architecture: amd64
+Auto-Installed: 1
+
+Package: elinks-data
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libfsplib0
+Architecture: amd64
+Auto-Installed: 1
+
+Package: vim-runtime
+Architecture: amd64
+Auto-Installed: 1
+
+Package: liblua5.1-0
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libutempter0
+Architecture: amd64
+Auto-Installed: 1
+
+Package: unzip
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libgpm2
+Architecture: amd64
+Auto-Installed: 1
+
+Package: pve-kernel-5.3.18-2-pve
+Architecture: amd64
+Auto-Installed: 1
+
+Package: cryptsetup-bin
+Architecture: amd64
+Auto-Installed: 1
+
+Package: python-tempita
+Architecture: amd64
+Auto-Installed: 1
+
+Package: librabbitmq4
+Architecture: amd64
+Auto-Installed: 1
+
+Package: liblttng-ust0
+Architecture: amd64
+Auto-Installed: 1
+
+Package: python-openssl
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libcurl4
+Architecture: amd64
+Auto-Installed: 1
+
+Package: ceph-mgr
+Architecture: amd64
+Auto-Installed: 1
+
+Package: ceph-mon
+Architecture: amd64
+Auto-Installed: 1
+
+Package: python-pastedeploy
+Architecture: amd64
+Auto-Installed: 1
+
+Package: python-markupsafe
+Architecture: amd64
+Auto-Installed: 1
+
+Package: ceph-osd
+Architecture: amd64
+Auto-Installed: 1
+
+Package: python-dnspython
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libparted2
+Architecture: amd64
+Auto-Installed: 1
+
+Package: python-simplejson
+Architecture: amd64
+Auto-Installed: 1
+
+Package: binutils
+Architecture: amd64
+Auto-Installed: 1
+
+Package: sudo
+Architecture: amd64
+Auto-Installed: 1
+
+Package: python-pecan
+Architecture: amd64
+Auto-Installed: 1
+
+Package: ceph-base
+Architecture: amd64
+Auto-Installed: 1
+
+Package: librgw2
+Architecture: amd64
+Auto-Installed: 1
+
+Package: python-enum34
+Architecture: amd64
+Auto-Installed: 1
+
+Package: python-waitress
+Architecture: amd64
+Auto-Installed: 1
+
+Package: python-cryptography
+Architecture: amd64
+Auto-Installed: 1
+
+Package: binutils-x86-64-linux-gnu
+Architecture: amd64
+Auto-Installed: 1
+
+Package: python-cffi-backend
+Architecture: amd64
+Auto-Installed: 1
+
+Package: python-ipaddress
+Architecture: amd64
+Auto-Installed: 1
+
+Package: python-bcrypt
+Architecture: amd64
+Auto-Installed: 1
+
+Package: python-mako
+Architecture: amd64
+Auto-Installed: 1
+
+Package: parted
+Architecture: amd64
+Auto-Installed: 1
+
+Package: python-webob
+Architecture: amd64
+Auto-Installed: 1
+
+Package: python-bs4
+Architecture: amd64
+Auto-Installed: 1
+
+Package: liboath0
+Architecture: amd64
+Auto-Installed: 1
+
+Package: python-pastedeploy-tpl
+Architecture: amd64
+Auto-Installed: 1
+
+Package: python-soupsieve
+Architecture: amd64
+Auto-Installed: 1
+
+Package: binutils-common
+Architecture: amd64
+Auto-Installed: 1
+
+Package: liblttng-ust-ctl4
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libbinutils
+Architecture: amd64
+Auto-Installed: 1
+
+Package: python-webtest
+Architecture: amd64
+Auto-Installed: 1
+
+Package: python-paste
+Architecture: amd64
+Auto-Installed: 1
+
+Package: python-singledispatch
+Architecture: amd64
+Auto-Installed: 1
+
+Package: python-werkzeug
+Architecture: amd64
+Auto-Installed: 1
+
+Package: python-formencode
+Architecture: amd64
+Auto-Installed: 1
+
+Package: python-jwt
+Architecture: amd64
+Auto-Installed: 1
+
+Package: python-logutils
+Architecture: amd64
+Auto-Installed: 1
+
+Package: python-cherrypy3
+Architecture: amd64
+Auto-Installed: 1
+
+Package: python-asn1crypto
+Architecture: amd64
+Auto-Installed: 1
+
+Package: python-ceph-argparse
+Architecture: amd64
+Auto-Installed: 1
+
+Package: python-backports.functools-lru-cache
+Architecture: amd64
+Auto-Installed: 1
+
+Package: python-simplegeneric
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libleveldb1d
+Architecture: amd64
+Auto-Installed: 1
+
+Package: python-rgw
+Architecture: amd64
+Auto-Installed: 1
+
